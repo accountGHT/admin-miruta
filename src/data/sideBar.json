@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Panel Principal",
+    "name": "panel",
+    "is_active": false,
+    "link": "/",
+    "class_name": ""
+  }
+]

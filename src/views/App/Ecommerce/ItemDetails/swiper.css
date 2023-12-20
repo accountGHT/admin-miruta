@@ -1,0 +1,37 @@
+.related-product-block  .swiper-button-prev {
+    top: 25%;
+    height: 38px;
+    background: #f1f5fc;
+    width: 38px;
+    border-radius: 5px;
+    left: 0px;
+    position: absolute;
+}
+.related-product-block  .swiper-button-next {
+    top: 25%;
+    height: 40px;
+    background: #f1f5fc;
+    width: 38px;
+    border-radius: 5px;
+    right: 0px;
+}
+.related-product-block  .swiper-button-prev::after {
+   font-size: 16px;
+   font-weight: 600;
+}
+.related-product-block  .swiper-button-next::after {
+    font-size: 16px;
+    font-weight: 600;
+ }
+
+.iq-additional_slider .swiper-button-prev::after{
+    font-size: 16px;
+    font-weight: 600;
+}
+.iq-additional_slider .swiper-button-next::after{
+    font-size: 16px;
+    font-weight: 600;
+}
+.iq-product-cover img, .iq-additional_slider img{
+    height: auto;
+}

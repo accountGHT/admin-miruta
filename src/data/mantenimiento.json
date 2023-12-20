@@ -1,0 +1,141 @@
+[
+    {
+        "title": "Mantenimiento",
+        "name": "mantenimiento",
+        "is_heading": true,
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": ""
+    },
+    {
+        "title": "Mant. de Clientes",
+        "name": "mantCliente",
+        "is_heading": false,
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": "ri-user-search-line",
+        "children": [
+            {
+                "title": "Clientes",
+                "name": "clientes",
+                "is_active": false,
+                "link": "/Mantenimiento/MantClientes/Clientes",
+                "class_name": ""
+            }
+        ]
+    },
+    {
+        "title": "Mant. de Chofer",
+        "name": "mantChofer",
+        "is_heading": false,
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": "ri-steering-line",
+        "children": [
+            {
+                "title": "Chofer",
+                "name": "chofer",
+                "is_active": false,
+                "link": "/Mantenimiento/MantChofer/Chofer",
+                "class_name": "",
+                "is_icon_class": true,
+                "icon": ""
+            },
+            {
+                "title": "Choferes Rechazados",
+                "name": "chofRechazados",
+                "is_active": false,
+                "link": "/Mantenimiento/MantChofer/ChofRechazados",
+                "class_name": "",
+                "is_icon_class": true,
+                "icon": ""
+            },
+            {
+                "title": "Choferes Pendientes",
+                "name": "chofPendientes",
+                "is_active": false,
+                "link": "/Mantenimiento/MantChofer/ChofPendientes",
+                "class_name": "",
+                "is_icon_class": true,
+                "icon": ""
+            }
+        ]
+    },
+    {
+        "title": "Mant. de Recargas",
+        "name": "mantRecargas",
+        "is_heading": false,
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": "ri-steering-line",
+        "children": [
+            {
+                "title": "Pendientes",
+                "name": "chofPendientes",
+                "is_active": false,
+                "link": "/Mantenimiento/MantRecargas/RecargasPendientes",
+                "class_name": "",
+                "is_icon_class": true,
+                "icon": ""
+            },
+            {
+                "title": "Aprobados",
+                "name": "chofer",
+                "is_active": false,
+                "link": "/Mantenimiento/MantRecargas/RecargasAprobadas",
+                "class_name": "",
+                "is_icon_class": true,
+                "icon": ""
+            },
+            {
+                "title": "Rechazados",
+                "name": "chofRechazados",
+                "is_active": false,
+                "link": "/Mantenimiento/MantRecargas/RecargasRechazadas",
+                "class_name": "",
+                "is_icon_class": true,
+                "icon": ""
+            }
+        ]
+    },
+    {
+        "title": "Mant. de Admin.",
+        "name": "mantAdmin",
+        "is_heading": false,
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": "ri-admin-line",
+        "children": [
+            {
+                "title": "Listar",
+                "name": "lista",
+                "is_active": false,
+                "link": "/Mantenimiento/MantAdministrador/Administrador",
+                "class_name": ""
+            }
+        ]
+    },
+    {
+        "title": "Mant. de Vehiculos.",
+        "name": "mantVehiculos",
+        "is_heading": false,
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": "ri-admin-line",
+        "children": [
+            {
+                "title": "Marcas y Modelos",
+                "name": "MarcaModelo",
+                "is_active": false,
+                "link": "/Mantenimiento/MantVehiculos/MarcaModelo",
+                "class_name": ""
+            }
+        ]
+    }
+]

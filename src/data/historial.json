@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Reg. Historial",
+        "name": "regHistorial",
+        "is_heading": true,
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": ""
+    },
+    {
+        "title": "Historial",
+        "name": "mantHistorial",
+        "is_heading": false,
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": "ri-user-line",
+        "children": [   
+            {
+                "title": "Hist. Recargas",
+                "name": "listar",
+                "is_active": false,
+                "link": "/Historial/MantHistorial/HistorialRecargas",
+                "class_name": ""
+            },
+            {
+                "title": "Hist. Viajes chofer",
+                "name": "listar",
+                "is_active": false,
+                "link": "/Historial/MantHistorial/HistorialViajesChofer",
+                "class_name": ""
+            },
+            {
+                "title": "Hist. Viajes clientes",
+                "name": "listar",
+                "is_active": false,
+                "link": "/Historial/MantHistorial/HistorialViajesClientes",
+                "class_name": ""
+            }
+        ]
+    }
+]

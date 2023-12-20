@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Gestion",
+        "name": "gestion",
+        "is_heading": true,
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": ""
+    },
+    {
+        "title": "Comision",
+        "name": "mantComision",
+        "is_active": false,
+        "link": "/Gestion/MantComision/Comision",
+        "class_name": ""
+    }
+]

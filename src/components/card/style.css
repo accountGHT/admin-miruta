@@ -1,0 +1,8 @@
+.sombra {
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 45%);
+    border-radius: 4px;
+}
+
+.redondear {
+    border-radius: 50px !important;
+}

@@ -1,0 +1,707 @@
+[
+  {
+    "title": "Panel Principal",
+    "name": "panel",
+    "is_active": false,
+    "link": "/",
+    "class_name": ""
+  },
+  {
+    "title": "Gestion Persona",
+    "name": "persona",
+    "is_heading": true,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": ""
+  },
+  {
+    "title": "Mant. de Clientes",
+    "name": "mantClientes",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-home-4-line",
+    "children": [
+      {
+        "title": "Clientes",
+        "name": "clientes",
+        "is_active": false,
+        "link": "/",
+        "class_name": ""
+      },
+      {
+        "title": "Dashboard 2",
+        "name": "dashboard-2",
+        "is_active": false,
+        "link": "/dashboard2",
+        "class_name": ""
+      },
+      {
+        "title": "Analytics",
+        "name": "analytics",
+        "is_active": false,
+        "link": "/analytics",
+        "class_name": ""
+      },
+      {
+        "title": "Tracking",
+        "name": "tracking",
+        "is_active": false,
+        "link": "/tracking",
+        "class_name": ""
+      },
+      {
+        "title": "Web Analytics",
+        "name": "web-analytics",
+        "is_active": false,
+        "link": "/web-analytics",
+        "class_name": ""
+      },
+      {
+        "title": "Patient",
+        "name": "patient",
+        "is_active": false,
+        "link": "/patient",
+        "class_name": ""
+      },
+      {
+        "title": "Ticket Booking",
+        "name": "ticket-booking",
+        "is_active": false,
+        "link": "/ticket-booking",
+        "class_name": ""
+      }
+    ]
+  },
+  {
+    "title": "Email",
+    "name": "email",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-mail-line",
+    "children": [
+      {
+        "title": "Inbox",
+        "name": "mail-inbox",
+        "is_active": false,
+        "link": "/email/index",
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": ""
+      },
+      {
+        "title": "Email Compose",
+        "name": "mail-compose",
+        "is_active": false,
+        "link": "/email/compose",
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Calender",
+    "name": "calender",
+    "is_heading": false,
+    "is_active": false,
+    "link": "/calender",
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-calendar-2-line"
+  },
+  {
+    "title": "eCommerce",
+    "name": "ecommerce",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-shopping-cart-line",
+    "children": [
+      {
+        "title": "Product",
+        "name": "product",
+        "is_active": false,
+        "link": "/product",
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": ""
+      },
+      {
+        "title": "Item Details",
+        "name": "itemdetails",
+        "is_active": false,
+        "link": "/itemdetails",
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": ""
+      },
+      {
+        "title": "Checkout",
+        "name": "checkout",
+        "is_active": false,
+        "link": "/checkout",
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Components",
+    "name": "components",
+    "is_heading": true,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": ""
+  },
+  {
+    "title": "UI Elements",
+    "name": "ui-elements",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-pencil-ruler-line",
+    "children": [
+      {
+        "title": "Colors",
+        "name": "colors",
+        "is_active": false,
+        "link": "/colors",
+        "class_name": ""
+      },
+      {
+        "title": "Typography",
+        "name": "typography",
+        "is_active": false,
+        "link": "/typography",
+        "class_name": ""
+      },
+      {
+        "title": "Alert",
+        "name": "alert",
+        "is_active": false,
+        "link": "/alert",
+        "class_name": ""
+      },
+      {
+        "title": "Badges",
+        "name": "badges",
+        "is_active": false,
+        "link": "/badges",
+        "class_name": ""
+      },
+      {
+        "title": "Breadcrumb",
+        "name": "breadcrumb",
+        "is_active": false,
+        "link": "/breadcrumb",
+        "class_name": ""
+      },
+      {
+        "title": "Buttons",
+        "name": "buttons",
+        "is_active": false,
+        "link": "/buttons",
+        "class_name": ""
+      },
+      {
+        "title": "Cards",
+        "name": "breadcrumb",
+        "is_active": false,
+        "link": "/cards",
+        "class_name": ""
+      },
+      {
+        "title": "Carousel",
+        "name": "carousel",
+        "is_active": false,
+        "link": "/carousel",
+        "class_name": ""
+      },
+      {
+        "title": "Video",
+        "name": "video",
+        "is_active": false,
+        "link": "/video",
+        "class_name": ""
+      },
+      {
+        "title": "Grid",
+        "name": "grid",
+        "is_active": false,
+        "link": "/grid",
+        "class_name": ""
+      },
+      {
+        "title": "Images",
+        "name": "images",
+        "is_active": false,
+        "link": "/images",
+        "class_name": ""
+      },
+      {
+        "title": "List Group",
+        "name": "list-group",
+        "is_active": false,
+        "link": "/list-group",
+        "class_name": ""
+      },
+      {
+        "title": "Media",
+        "name": "media",
+        "is_active": false,
+        "link": "/media",
+        "class_name": ""
+      },
+      {
+        "title": "Modal",
+        "name": "modal",
+        "is_active": false,
+        "link": "/modal",
+        "class_name": ""
+      },
+      {
+        "title": "Notifications",
+        "name": "notification",
+        "is_active": false,
+        "link": "/notification",
+        "class_name": ""
+      },
+      {
+        "title": "Pagination",
+        "name": "pagination",
+        "is_active": false,
+        "link": "/pagination",
+        "class_name": ""
+      },
+      {
+        "title": "Popovers",
+        "name": "popovers",
+        "is_active": false,
+        "link": "/popovers",
+        "class_name": ""
+      },
+      {
+        "title": "Progressbars",
+        "name": "progress-bars",
+        "is_active": false,
+        "link": "/progress-bars",
+        "class_name": ""
+      },
+      {
+        "title": "Tabs",
+        "name": "tabs",
+        "is_active": false,
+        "link": "/tabs",
+        "class_name": ""
+      },
+      {
+        "title": "Tooltips",
+        "name": "tooltips",
+        "is_active": false,
+        "link": "/tooltips",
+        "class_name": ""
+      }
+    ]
+  },
+  {
+    "title": "Forms",
+    "name": "forms",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-profile-line",
+    "children": [
+      {
+        "title": "Form Elements",
+        "name": "form-elements",
+        "is_active": false,
+        "link": "/form",
+        "class_name": ""
+      },
+      {
+        "title": "Form Validation",
+        "name": "form-validation",
+        "is_active": false,
+        "link": "/form-validation",
+        "class_name": ""
+      },
+      {
+        "title": "Form Switch",
+        "name": "form-switch",
+        "is_active": false,
+        "link": "/form-switch",
+        "class_name": ""
+      },
+      {
+        "title": "Form Checkbox",
+        "name": "form-checkbox",
+        "is_active": false,
+        "link": "/form-checkbox",
+        "class_name": ""
+      },
+      {
+        "title": "Form Radio",
+        "name": "form-radio",
+        "is_active": false,
+        "link": "/form-radio",
+        "class_name": ""
+      }
+    ]
+  },
+  {
+    "title": "Tables",
+    "name": "tables",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-table-line",
+    "children": [
+      {
+        "title": "Basic Table",
+        "name": "tables-basic",
+        "is_active": false,
+        "link": "/tables-basic",
+        "class_name": ""
+      },
+      {
+        "title": "DataTable",
+        "name": "tables-datatable",
+        "is_active": false,
+        "link": "/tables-datatable",
+        "class_name": ""
+      },
+      {
+        "title": "Editable Table",
+        "name": "tables-editable",
+        "is_active": false,
+        "link": "/tables-editable",
+        "class_name": ""
+      }
+    ]
+  },
+  {
+    "title": "Charts",
+    "name": "charts",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-pie-chart-box-line",
+    "children": [
+      {
+        "title": "Morris Chart",
+        "name": "morris-chart",
+        "is_active": false,
+        "link": "/chart-morris",
+        "class_name": ""
+      },
+      {
+        "title": "High Chart",
+        "name": "high-chart",
+        "is_active": false,
+        "link": "/chart-high",
+        "class_name": ""
+      },
+      {
+        "title": "Am Chart",
+        "name": "am-chart",
+        "is_active": false,
+        "link": "/chart-am",
+        "class_name": ""
+      },
+      {
+        "title": "Apex Chart",
+        "name": "chart-apex",
+        "is_active": false,
+        "link": "/chart-apex",
+        "class_name": ""
+      }
+    ]
+  },
+  {
+    "title": "Icons",
+    "name": "icons",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-list-check",
+    "children": [
+      {
+        "title": "Dripicons",
+        "name": "icon-dripicons",
+        "is_active": false,
+        "link": "/icon-dripicons",
+        "class_name": ""
+      },
+      {
+        "title": "Font Awesome 5",
+        "name": "icon-font-awesome",
+        "is_active": false,
+        "link": "/icon-font-awesome",
+        "class_name": ""
+      },
+      {
+        "title": "Line Awesome",
+        "name": "icon-line-awesome",
+        "is_active": false,
+        "link": "/icon-line-awesome",
+        "class_name": ""
+      },
+      {
+        "title": "Remixicon Icon",
+        "name": "remixicon-icon",
+        "is_active": false,
+        "link": "/remixicon-icon",
+        "class_name": ""
+      },
+      {
+        "title": "Unicons",
+        "name": "unicons-icon",
+        "is_active": false,
+        "link": "/unicons-icon",
+        "class_name": ""
+      }
+    ]
+  },
+  {
+    "title": "Menu Level",
+    "name": "sidebarmenuLevel",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-record-circle-line",
+    "children": [
+      {
+        "title": "Menu 1",
+        "name": "sidebarmenuOne",
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": "ri-record-circle-line"
+      },
+      {
+        "title": "Menu 2",
+        "name": "sidebarmenuTwo",
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": "ri-record-circle-line"
+      },
+      {
+        "title": "Sub Menu",
+        "name": "sidebarsubmenu",
+        "is_active": false,
+        "class_name": "iq-submenu-data",
+        "is_icon_class": true,
+        "icon": "ri-record-circle-line",
+        "children": [
+          {
+            "title": "Sub-menu 1",
+            "name": "sidebarsubmenuOne",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line"
+          },
+          {
+            "title": "Sub-menu 2",
+            "name": "sidebarsubmenuTwo",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line"
+          },
+          {
+            "title": "Sub-menu 3",
+            "name": "submenuThree",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line"
+          }
+        ]
+      },
+      {
+        "title": "Menu 3",
+        "name": "sidebarmenuThree",
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": "ri-record-circle-line"
+      },
+      {
+        "title": "Menu 4",
+        "name": "sidebarmenuFour",
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": "ri-record-circle-line"
+      }
+    ]
+  },
+  {
+    "title": "Pages",
+    "name": "pages",
+    "is_heading": true,
+    "is_active": false,
+    "class_name": ""
+  },
+  {
+    "title": "Authentication",
+    "name": "authentication",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-pages-line",
+    "children": [
+      {
+        "title": "Login",
+        "name": "login",
+        "is_active": false,
+        "link": "/auth/sign-in1",
+        "class_name": ""
+      },
+      {
+        "title": "Register",
+        "name": "register",
+        "is_active": false,
+        "link": "/auth/sign-up1",
+        "class_name": ""
+      },
+      {
+        "title": "Recover Password",
+        "name": "recover-password",
+        "is_active": false,
+        "link": "/auth/recover-password",
+        "class_name": ""
+      },
+      {
+        "title": "Confirm Mail",
+        "name": "confirm-email",
+        "is_active": false,
+        "link": "/auth/confirm-email",
+        "class_name": ""
+      },
+      {
+        "title": "Lock Screen",
+        "name": "lock-screen",
+        "is_active": false,
+        "link": "/auth/lock-screen",
+        "class_name": ""
+      }
+    ]
+  },
+  {
+    "title": "Maps",
+    "name": "maps",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-map-pin-user-line",
+    "children": [
+      {
+        "title": "Google Map",
+        "name": "map-google",
+        "is_active": false,
+        "link": "/map-google",
+        "class_name": ""
+      }
+    ]
+  },
+  {
+    "title": "Extra Pages",
+    "name": "extra-pages",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-pantone-line",
+    "children": [
+      {
+        "title": "Timeline",
+        "name": "timeline",
+        "is_active": false,
+        "link": "/timeline",
+        "class_name": ""
+      },
+      {
+        "title": "Invoice",
+        "name": "invoice",
+        "is_active": false,
+        "link": "/invoice",
+        "class_name": ""
+      },
+      {
+        "title": "Blank Page",
+        "name": "blank-page",
+        "is_active": false,
+        "link": "/blank-page",
+        "class_name": ""
+      },
+      {
+        "title": "Error 404",
+        "name": "error-page-404",
+        "is_active": false,
+        "link": "/pages/error-page",
+        "class_name": ""
+      },
+      {
+        "title": "Error 500",
+        "name": "error-page-500",
+        "is_active": false,
+        "link": "/pages/error-500",
+        "class_name": ""
+      },
+      {
+        "title": "Pricing",
+        "name": "pricing",
+        "is_active": false,
+        "link": "/pricing",
+        "class_name": ""
+      },
+      {
+        "title": "Pricing 1",
+        "name": "pricing-one",
+        "is_active": false,
+        "link": "/pricing-one",
+        "class_name": ""
+      },
+      {
+        "title": "Maintenance",
+        "name": "maintenance-page",
+        "is_active": false,
+        "link": "/pages/maintenance-page",
+        "class_name": ""
+      },
+      {
+        "title": "Coming Soon",
+        "name": "comingsoon-page",
+        "is_active": false,
+        "link": "/pages/comingsoon-page",
+        "class_name": ""
+      },
+      {
+        "title": "Faq",
+        "name": "faq",
+        "is_active": false,
+        "link": "/faq",
+        "class_name": ""
+      }
+    ]
+  }
+]

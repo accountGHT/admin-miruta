@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Funcionalidad",
+        "name": "Funcionalidad",
+        "is_heading": true,
+        "is_active": false,
+        "class_name": "",
+        "is_icon_class": true,
+        "icon": ""
+    },
+    {
+        "title": "Funcionalidades",
+        "name": "mantFuncionalidad",
+        "is_active": false,
+        "link": "/Gestion/mantFuncionalidad/Funcionalidad",
+        "class_name": ""
+    },
+    {
+        "title": "Mensajeria",
+        "name": "mensajeria",
+        "is_active": false,
+        "link": "/Gestion/mensajeria/Global",
+        "class_name": ""
+    }
+]
